@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ABND_Project8_InventoryApp</string>
+    <string name="execution_textView_text">Execution Complete.</string>
+    <string name="logcat_textView_text">Check Logcat for: ***Begin Database Dump***</string>
+</resources>
